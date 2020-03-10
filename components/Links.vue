@@ -3,6 +3,8 @@
   NuxtLink(to='/') Accueil
   span.mx-2 |
   NuxtLink(to='/button') Bouton
+  span.mx-2 |
+  NuxtLink(to='/list') Liste
 </template>
 <script>
 export default {}
